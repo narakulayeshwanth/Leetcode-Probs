@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0041-first-missing-positive) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
