@@ -2,41 +2,31 @@ import heapq
 
 class Solution:
     def minCost(self, n: int, edges):
-        out_edges = [[] for _ in range(n)]
-        in_edges = [[] for _ in range(n)]
+        graph = [[] for _ in range(n)]
 
         for u, v, w in edges:
-            out_edges[u].append((v, w))
-            in_edges[v].append((u, w))
+            graph[u].append((v, w))       
+            graph[v].append((u, 2 * w))    
 
-        INF = 10**18
-        dist = [[INF] * 2 for _ in range(n)]
+        INF = float('inf')
+        dist = [INF] * n
+        dist[0] = 0
 
-        dist[0][0] = 0
-        pq = [(0, 0, 0)]  
+        pq = [(0, 0)]  
 
         while pq:
-            d, u, state = heapq.heappop(pq)
+            d, u = heapq.heappop(pq)
 
-            if d != dist[u][state]:
+            if d > dist[u]:
                 continue
 
             if u == n - 1:
                 return d
 
-            for v, w in out_edges[u]:
+            for v, w in graph[u]:
                 nd = d + w
+                if nd < dist[v]:
+                    dist[v] = nd
+                    heapq.heappush(pq, (nd, v))
 
-                if nd < dist[v][0]:
-                    dist[v][0] = nd
-                    heapq.heappush(pq, (nd, v, 0))
-
-            if state == 0:
-                for v, w in in_edges[u]:
-                    nd = d + 2 * w
-
-                    if nd < dist[v][0]:
-                        dist[v][0] = nd
-                        heapq.heappush(pq, (nd, v, 0))
-
-        return -1
+        return -1 if dist[n - 1] == INF else dist[n - 1]
