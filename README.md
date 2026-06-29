@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0041-first-missing-positive) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0041-first-missing-positive) |
+| [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Graph Theory
@@ -82,9 +84,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Design
+|  |
+| ------- |
+| [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
+## Trie
+|  |
+| ------- |
+| [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
