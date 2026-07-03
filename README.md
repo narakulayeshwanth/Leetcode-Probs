@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -44,17 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 ## Design
 |  |
 | ------- |
@@ -127,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
