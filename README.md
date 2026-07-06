@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
