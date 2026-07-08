@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
