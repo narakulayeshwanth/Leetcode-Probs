@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
