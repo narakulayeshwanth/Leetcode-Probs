@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0696-count-binary-substrings) |
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
