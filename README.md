@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0696-count-binary-substrings) |
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
+| [0761-special-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
