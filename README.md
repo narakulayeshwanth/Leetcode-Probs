@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2685-count-the-number-of-complete-components) |
@@ -204,11 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
