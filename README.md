@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
