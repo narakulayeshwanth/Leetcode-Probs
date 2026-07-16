@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
