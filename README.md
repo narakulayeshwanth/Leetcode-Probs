@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3714-longest-balanced-substring-ii) |
@@ -111,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -304,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
