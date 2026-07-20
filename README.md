@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
