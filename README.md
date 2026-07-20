@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
