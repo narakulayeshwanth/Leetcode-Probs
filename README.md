@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0041-first-missing-positive) |
+| [0628-maximum-product-of-three-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
