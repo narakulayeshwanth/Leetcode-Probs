@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0041-first-missing-positive) |
+| [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Combinatorics
 |  |
@@ -442,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
