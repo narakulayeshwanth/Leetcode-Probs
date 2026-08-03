@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Graph Theory
 |  |
 | ------- |
