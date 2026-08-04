@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
