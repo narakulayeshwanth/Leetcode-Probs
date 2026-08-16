@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3713-longest-balanced-substring-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3312-sorted-gcd-pair-queries) |
@@ -494,20 +498,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
