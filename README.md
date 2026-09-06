@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0799-champagne-tower) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0696-count-binary-substrings) |
 | [0745-prefix-and-suffix-search](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0745-prefix-and-suffix-search) |
