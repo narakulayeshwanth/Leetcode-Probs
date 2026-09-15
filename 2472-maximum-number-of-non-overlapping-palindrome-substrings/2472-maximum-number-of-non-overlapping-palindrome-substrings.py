@@ -12,7 +12,6 @@ class Solution:
                     latest[r] = max(latest[r], l)
                 l -= 1
                 r += 1
-
         # Odd length palindromes
         for i in range(n):
             expand(i, i)
