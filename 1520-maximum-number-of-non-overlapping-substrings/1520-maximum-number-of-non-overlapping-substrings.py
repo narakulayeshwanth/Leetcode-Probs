@@ -14,7 +14,6 @@ class Solution:
 
         intervals = []
 
-        # Find the smallest valid interval starting at each character's first occurrence
         for c in range(26):
             if first[c] == n:
                 continue
@@ -27,7 +26,6 @@ class Solution:
             while i <= r:
                 x = ord(s[i]) - ord('a')
 
-                # This character appeared before l, so the interval is invalid
                 if first[x] < l:
                     valid = False
                     break
@@ -38,8 +36,6 @@ class Solution:
             if valid:
                 intervals.append((l, r))
 
-        # Choose maximum number of non-overlapping intervals.
-        # Sorting by ending position gives the optimal greedy choice.
         intervals.sort(key=lambda x: x[1])
 
         ans = []
