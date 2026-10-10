@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
