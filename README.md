@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
