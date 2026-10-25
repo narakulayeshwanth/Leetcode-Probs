@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2685-count-the-number-of-complete-components) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
