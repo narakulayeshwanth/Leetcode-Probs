@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Topological Sort
 |  |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
