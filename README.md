@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3719-longest-balanced-subarray-i) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -792,4 +797,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
