@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/narakulayeshwanth/Leetcode-Probs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
